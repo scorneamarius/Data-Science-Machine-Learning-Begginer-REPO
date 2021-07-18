@@ -1,0 +1,9 @@
+{
+  "train_model": false,
+  "allUsers": [
+    {
+      "id": 10,
+      "wear_mask": true
+    }
+  ]
+}

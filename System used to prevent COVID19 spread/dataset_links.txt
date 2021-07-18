@@ -1,0 +1,2 @@
+https://github.com/cabani/MaskedFace-Net   - mask
+https://github.com/NVlabs/ffhq-dataset        - no mask

@@ -1,0 +1,2 @@
+Every folder has a unique id name and images with the same person
+These images will be used for training the LBPH
